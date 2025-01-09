@@ -1,0 +1,35 @@
+.array-container {
+    margin: 0 auto;
+    min-height: 500px;
+    min-width: 100%;
+}
+
+.array-bar {
+    display: inline-block;
+    background-color: black;
+}
+
+.option-container {
+    margin: 0 auto;
+}
+
+button {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+select {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.text-container {
+    display: inline-block;
+    width: 75%;
+  }
+
+.slider-container {
+    width: 70vw;
+    margin: 0 auto;
+}
